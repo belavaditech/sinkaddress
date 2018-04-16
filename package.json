@@ -1,0 +1,29 @@
+{
+  "name": "sinkaddress",
+  "version": "1.0.0",
+  "description": "implementation of sinkaddress",
+  "main": "index.js",
+  "dependencies": {
+    "bip38": "^2.0.2",
+    "bitcoinjs-lib": "^2.3.0",
+    "bitcoincontrol": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node sinkaddresstest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belavaditech/sinkaddress.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "sinkaddress"
+  ],
+  "author": "Belavadi N Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belavaditech/sinkaddress/issues"
+  },
+  "homepage": "https://github.com/belavaditech/sinkaddress#readme"
+}
